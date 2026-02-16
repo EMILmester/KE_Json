@@ -8,6 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Update="diakok.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Adat.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

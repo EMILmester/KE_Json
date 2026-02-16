@@ -1,0 +1,14 @@
+﻿[
+    {
+        "nev": "Kovács Péter",
+        "jegyek": [ 5, 4, 4, 5 ]
+    },
+    {
+        "nev": "Nagy Anna",
+        "jegyek": [ 3, 2, 4, 5 ]
+    },
+    {
+        "nev": "Szabó István",
+        "jegyek": [ 5, 5, 5, 4 ]
+    }
+]
