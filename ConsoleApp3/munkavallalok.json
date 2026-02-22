@@ -1,0 +1,21 @@
+[
+  {
+    "nev": "Kovács Péter",
+    "fizetes": 400000,
+    "jogositvany": true,
+    "munkarend": "8:00-16:00"
+  },
+
+  {
+    "nev": "Nagy Anna",
+    "fizetes": 350000,
+    "jogositvany": false,
+    "munkarend": "9:00-17:00"
+  },
+  {
+    "nev": "Tóth István",
+    "fizetes": 450000,
+    "jogositvany": true,
+    "munkarend": "7:00-15:00"
+  }
+]
